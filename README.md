@@ -17,4 +17,4 @@ Algunas de estás meotodologías activas son:
 
 En este artículo tienes una breve guía [sobre cuál de estas metodologías podemos elegir.](https://www.google.com/url?q=http://www.educaciontrespuntocero.com/recursos/metodologias-activas-en-el-aula-cual-escoger/45543.html&sa=D&ust=1511270171038000&usg=AFQjCNGa6jJ4vHATFtcIjUJtKiKfTOYCfg)
 
-Este curso es sólo una introducción y no puede abarcar todas las metodologías activas. Se ha optado por centrar el enfoque en una de ellas, el ABP, así como en un modelo pedagógico, el modelo Flipped Classroom que integra estas metodologías y hace su uso más viable y eficaz.
+Este curso es sólo una introducción y no puede abarcar todas las metodologías activas. Se ha optado por centrar el enfoque en una de ellas, el ABP, así como en un modelo pedagógico, el modelo Flipped Classroom que integra estas metodologías y hace su uso más viable y eficaz.# Curso-de-funcionarios-en-pr-cticas
