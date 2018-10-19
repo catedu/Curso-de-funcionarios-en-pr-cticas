@@ -3,9 +3,11 @@
     "language": "es",
     "variables": {
         "title": "Metodologías activas, didáctica y evaluación",
-        "author": "Contenidos seleccionados por el equipo de CATEDU a partir de los cursos del INTEF Aprendizaje basado en proyectos y Dale la vuelta a tu clase ",
+        "author": "Varios autores",
         "collaborators": [
-            { "name": ".", "edited": "" }
+            { "name": "Equipo de CATEDU", "edited": "Módulo 1 a partir del cursos del INTEF Aprendizaje basado en proyectos de Fernando Trujillo Sáez" }
+            { "name": "María Lourdes Alcalá Ibañez", "edited": "Módulo 2"}
+            { "name": ".", "edited": "Módulo 3"}
         ]
     },
     "pluginsConfig": {
