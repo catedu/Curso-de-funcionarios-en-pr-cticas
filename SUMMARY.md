@@ -1,7 +1,10 @@
 # Summary
 
-### MÓDULO 1. Metodologías activas
 * [Introducción](README.md)
+
+## MÓDULO 1. Metodologías activas
+
+* [Metodologías activas](metodologias-activas.md)
 * [APRENDIZAJE BASADO EN PROYECTOS.](aprendizaje_basado_en_proyectos/README.md)
   * [Una definición de ABP](aprendizaje_basado_en_proyectos/una_definicion_de_abp.md)
   * [8 Elementos esenciales para ABP](aprendizaje_basado_en_proyectos/8_elementos_esenciales_para_abp.md)
@@ -11,10 +14,7 @@
   * [El ABP como auto-formación](aprendizaje_basado_en_proyectos/el_abp_como_auto-formacion.md)
   * [El ABP como formación en centros](aprendizaje_basado_en_proyectos/el_abp_como_formacion_en_centros.md)
 
----
+## MÓDULO 2: Documentación educativa.
 
-### MÓDULO 2: Documentación educativa.
+## MÓDULO 3: Comunidad educativa.
 
----
-
-### MÓDULO 3: Comunidad educativa.
