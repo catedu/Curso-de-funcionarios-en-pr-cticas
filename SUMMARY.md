@@ -16,6 +16,9 @@
 
 ## MÓDULO 2: Documentación educativa.
 
+
+## MÓDULO 3: Comunidad educativa.
+
 * [Estudio sobre el estado de la convivencia](modulo-2-documentacion-educativa/estudio-sobre-el-estado-de-la-convivencia.md)
 * [Acoso escolar.](modulo-2-documentacion-educativa/acoso-escolar.md)
   * [Concepto y Características del acoso escolar.](modulo-2-documentacion-educativa/acoso-escolar/concepto-y-caracteristicas-del-acoso-escolar.md)
@@ -24,6 +27,4 @@
   * [Secuencia de las actuaciones, responsables, plazos y documentación a cumplimentar](modulo-2-documentacion-educativa/secuencia-de-las-actuaciones-responsables-plazos-y-documentacion-a-cumplimentar.md)
   * [Cronograma de actuaciones.](modulo-2-documentacion-educativa/acoso-escolar/cronograma-de-actuaciones.md)
   * [Diagrama de actuación.](modulo-2-documentacion-educativa/acoso-escolar/diagrama-de-actuacion.md)
-
-## MÓDULO 3: Comunidad educativa.
 
