@@ -16,7 +16,11 @@
 
 ## MÓDULO 2: Documentación educativa.
 
-
+* [Introducción](modulo-2-documentacion-educativa/presentacion-del-modulo.md)
+* [El centro docente como organización: Documentación institucional](modulo-2-documentacion-educativa/el-centro-docente-como-organizacion-documentacion-institucional.md)
+  * [Autonomía de centros: Documentación institucional](modulo-2-documentacion-educativa/el-centro-docente-como-organizacion-documentacion-institucional/autonomia-de-centros-documentacion-institucional.md)
+* [Documentos institucionales del centro](modulo-2-documentacion-educativa/documentos-institucionales-del-centro.md)
+  * [Proyecto Educativo](modulo-2-documentacion-educativa/documentos-institucionales-del-centro/proyecto-educativo.md)
 
 ## MÓDULO 3: Comunidad educativa.
 
