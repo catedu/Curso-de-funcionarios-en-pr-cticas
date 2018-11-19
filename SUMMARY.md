@@ -21,6 +21,8 @@
   * [Autonomía de centros: Documentación institucional](modulo-2-documentacion-educativa/el-centro-docente-como-organizacion-documentacion-institucional/autonomia-de-centros-documentacion-institucional.md)
 * [Documentos institucionales del centro](modulo-2-documentacion-educativa/documentos-institucionales-del-centro.md)
   * [Proyecto Educativo](modulo-2-documentacion-educativa/documentos-institucionales-del-centro/proyecto-educativo.md)
+  * [Concreciones Curriculares: Proyecto curricular de etapa \(PCE\)](modulo-2-documentacion-educativa/documentos-institucionales-del-centro/concreciones-curriculares-proyecto-curricular-de-etapa-pce.md)
+  * [Programaciones didácticas](modulo-2-documentacion-educativa/documentos-institucionales-del-centro/programaciones-didacticas.md)
 
 ## MÓDULO 3: Comunidad educativa.
 
