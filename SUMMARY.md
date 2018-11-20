@@ -37,4 +37,7 @@
   * [Secuencia de las actuaciones, responsables, plazos y documentación a cumplimentar](modulo-2-documentacion-educativa/secuencia-de-las-actuaciones-responsables-plazos-y-documentacion-a-cumplimentar.md)
   * [Cronograma de actuaciones.](modulo-2-documentacion-educativa/acoso-escolar/cronograma-de-actuaciones.md)
   * [Diagrama de actuación.](modulo-2-documentacion-educativa/acoso-escolar/diagrama-de-actuacion.md)
+  
+  
+[Créditos](creditos.md)
 
