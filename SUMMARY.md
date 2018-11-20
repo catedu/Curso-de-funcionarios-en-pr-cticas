@@ -23,6 +23,7 @@
   * [Proyecto Educativo](modulo-2-documentacion-educativa/documentos-institucionales-del-centro/proyecto-educativo.md)
   * [Concreciones Curriculares: Proyecto curricular de etapa \(PCE\)](modulo-2-documentacion-educativa/documentos-institucionales-del-centro/concreciones-curriculares-proyecto-curricular-de-etapa-pce.md)
   * [Programaciones didácticas](modulo-2-documentacion-educativa/documentos-institucionales-del-centro/programaciones-didacticas.md)
+  * [Documentos anuales: Programación General Anual y Memoria Final](modulo-2-documentacion-educativa/documentos-institucionales-del-centro/documentos-anuales-programacion-general-anual-y-memoria-final.md)
 
 ## MÓDULO 3: Comunidad educativa.
 

@@ -12,7 +12,7 @@ La elaboración de una programación, por lo tanto, **se sitúa en el ámbito de
 
 Cada centro, dentro del ámbito del desarrollo de su autonomía, puede determinar el modelo de programación didáctica \(por materias, por ámbitos, por proyectos globales o interdisciplinares…\), En los centros de Educación Secundaria son los Departamentos didácticos, tomando como referencia el Proyecto Curricular de Etapa, los que desarrollarán el currículo establecido por la normativa por la que se aprueban los currículos de Educación Secundaria Obligatoria, Bachillerato y Ciclos formativos, mediante la programación didáctica.
 
-### Las programaciones didácticas de cada nivel, de acuerdo con lo establecido en la normativa por la que se aprueban los currículos de Educación Secundaria, Bachillerato y se autoriza su aplicación en los centros docentes de la Comunidad Autónoma de Aragón, incluirán, al menos, los siguientes aspectos en las diferentes materias de conocimiento:
+**Las programaciones didácticas de cada nivel, de acuerdo con lo establecido en la normativa por la que se aprueban los currículos de Educación Secundaria, Bachillerato y se autoriza su aplicación en los centros docentes de la Comunidad Autónoma de Aragón, incluirán, al menos, los siguientes aspectos en las diferentes materias de conocimiento:**
 
 | **EDUCACIÓN SECUNDARIA** | **BACHILLERATO** |
 | --- | --- |
