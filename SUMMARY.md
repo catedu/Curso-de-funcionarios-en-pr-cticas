@@ -39,5 +39,5 @@
   * [Diagrama de actuación.](modulo-2-documentacion-educativa/acoso-escolar/diagrama-de-actuacion.md)
   
   
-[Créditos](creditos.md)
+* [Créditos](creditos.md)
 
