@@ -1,5 +1,7 @@
 # Reflexiones finales.
 
-En [esta presentación](https://educaragon-my.sharepoint.com/:p:/g/personal/jcarinnena_educa_aragon_es/EXTo4s2oJUpIqDrT5tUnYc0B7sulgHoC3onUQcPzifUjDg?e=BqOVLo) puedes ver unas reflexiones finales sobre la importancia de la documentación educativa para poder planear una filosofía educativa compartida por la comunidad y poder implementarla con la mayor eficacia.
+Y para finalizar, en esta presentación podéis ver aquellos aspectos más significativos que justifican la necesidad de tener una documentación institucional adecuada a cada centro, que de respuestas a las demandas del alumnado y sean el referente para los profesores en su planificación docente.
+
+Considero que es necesario reflexionar sobre las oportunidades que nos proporcionan los documentos institucionales para desarrollar la autonomía de centro. Entre estos documentos, la programación didáctica se sitúa en el escalón más cercano a la acción educativa, al trabajo de aula.  Programar no solo es una función docente sino una necesidad para planificar el trabajo con los alumnos. Dentro de la programación hay dos aspectos fundamentales,  la metodología y la evaluación que nos ayudan a  desarrollar nuestro objetivo fundamental de toda enseñanza, que es hacer progresar  al alumnado a lo largo  de una senda cada vez más compleja de conocimientos, destrezas y actitudes.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvyuyTzTHefCLPTZEiVYIOhS8b0IaWO7ukgdlmAhKJdRZTk5XieXZ2VhwLvn7LQgY_WLw0ySZ0j8Ys/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
