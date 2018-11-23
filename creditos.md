@@ -5,6 +5,10 @@
 ## Autoría
 
 * {{ book.author }}
+* {{ callaborator }}
+
+
+
 
 
 
