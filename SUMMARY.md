@@ -40,7 +40,7 @@
 
 ## MÓDULO 4: Prevención de Riesgos Laborales del personal docente en Aragón.
 
-* Prevención de Riesgos Laborales del personal docente en Aragón
+* [Prevención de Riesgos Laborales del personal docente en Aragón](modulo-4-prevencion-de-riesgos-laborales-del-personal-docente-en-aragon/prevencion-de-riesgos-laborales-del-personal-docente-en-aragon.md)
 
 ---
 
