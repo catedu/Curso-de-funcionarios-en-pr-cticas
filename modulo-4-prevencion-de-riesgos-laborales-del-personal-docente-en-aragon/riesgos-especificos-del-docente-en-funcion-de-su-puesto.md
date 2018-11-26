@@ -32,7 +32,6 @@ Por último, para terminar este breve módulo es interesante tener en cuenta los
 
 [http://www.educaragon.org/files/Instrucciones%20accidente.2013.pdf](http://www.educaragon.org/files/Instrucciones%20accidente.2013.pdf)
 
-El impreso a rellenar en caso de accidente:
 
 [El impreso a rellenar en caso de accidente:](http://www.educaragon.org/files/ANEXO%20I.%20Orden%2016%20de%20octubre%20de%202012.pdf)
 <iframe src="https://drive.google.com/file/d/1ae-CrLA-j5u56cT-hgskiqEYhqKu0fSZ/preview" width="640" height="480"></iframe>
