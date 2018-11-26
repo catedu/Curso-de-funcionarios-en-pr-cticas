@@ -8,9 +8,10 @@
 - Consulta y participación. Se canaliza a través del sistema de representación colectiva existente.
 - Derecho a la paralización de la actividad en caso de riesgo grave e inminente.
 - Derecho a la adaptación o el cambio de puesto de trabajo por motivos de salud a colectivos específicos especialmente protegidos en materia preventiva
-  - Maternidad y lactancia. Puede consultarse el prodedimiento en [este enlace](http://www.educaragon.org/files/PROCEDIMIENTO%20EMBARAZO%20CENTROS%20EDUCATIVOS.pdf)
   - Docentes especialmente sensibles
-
+  - Maternidad y lactancia. Puede consultarse el prodedimiento en [este enlace](http://www.educaragon.org/files/PROCEDIMIENTO%20EMBARAZO%20CENTROS%20EDUCATIVOS.pdf)
+  <iframe src="https://drive.google.com/file/d/1rahk0wO3kJfh6zH8OYGqlOa4DMJG7f1v/preview" width="640" height="480"></iframe>
+  
 ## **Obligaciones**.
 
 - Velar por el cumplimiento de las medidas de prevención y protección que en cada caso sean adoptadas.

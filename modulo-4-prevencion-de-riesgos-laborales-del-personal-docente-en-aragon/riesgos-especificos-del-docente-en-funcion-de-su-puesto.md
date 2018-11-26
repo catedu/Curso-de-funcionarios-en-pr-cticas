@@ -14,6 +14,8 @@ Para este cometido podría servirnos el Manual de Información en Prevención de
 
 Debe leerse el manual
 
+<iframe src="https://drive.google.com/file/d/1DCqW3tyBAl0g9hDRQfg8rHUkpDa77mei/preview" width="640" height="480"></iframe>
+
 [Prevención en infantil y primaria](http://www.educaragon.org/files/FICHA%20INFANTIL%20Y%20PRIMARIA.pdf)
 
 ## 3 Docentes en talleres, laboratorios, ciclos de formación profesional.
@@ -32,9 +34,10 @@ Por último, para terminar este breve módulo es interesante tener en cuenta los
 
 El impreso a rellenar en caso de accidente:
 
-[http://www.educaragon.org/files/ANEXO%20I.%20Orden%2016%20de%20octubre%20de%202012.pdf](http://www.educaragon.org/files/ANEXO%20I.%20Orden%2016%20de%20octubre%20de%202012.pdf)
+[El impreso a rellenar en caso de accidente:](http://www.educaragon.org/files/ANEXO%20I.%20Orden%2016%20de%20octubre%20de%202012.pdf)
+<iframe src="https://drive.google.com/file/d/1ae-CrLA-j5u56cT-hgskiqEYhqKu0fSZ/preview" width="640" height="480"></iframe>
 
-Conclusión.
+## Conclusión.
 
 Hemos pretendido con este breve módulo concienciar de la importancia de la prevención de riesgos en nuestro entorno docente. Incentivar la realización de formación con mayor profundidad y dar unas herramientas mínimas para saber cómo actuar en caso de accidente. Deliberadamente no se ha citado normativa que muchas veces ahoga el texto y no aporta más allá de unos datos aunque, evidentemente, lo dicho en esta unidad está apoyado en textos normativos, que haberlos haylos.
 
