@@ -40,7 +40,12 @@
 
 ## MÓDULO 4: Prevención de Riesgos Laborales del personal docente en Aragón.
 
-* [Prevención de Riesgos Laborales del personal docente en Aragón](modulo-4-prevencion-de-riesgos-laborales-del-personal-docente-en-aragon/prevencion-de-riesgos-laborales-del-personal-docente-en-aragon.md)
+* [Conceptos generales](modulo-4-prevencion-de-riesgos-laborales-del-personal-docente-en-aragon/conceptos-generales.md)
+  * [Trabajo y salud. La paradoja del trabajo y la salud](modulo-4-prevencion-de-riesgos-laborales-del-personal-docente-en-aragon/conceptos-generales/trabajo-y-salud-la-paradoja-del-trabajo-y-la-salud.md)
+  * [Riesgo y daño. Prevención y protección](modulo-4-prevencion-de-riesgos-laborales-del-personal-docente-en-aragon/conceptos-generales/riesgo-y-dano-prevencion-y-proteccion.md)
+  * [Derechos y deberes de los docentes en materia de prevención de riesgos](modulo-4-prevencion-de-riesgos-laborales-del-personal-docente-en-aragon/conceptos-generales/derechos-y-deberes-de-los-docentes-en-materia-de-prevencion-de-riesgos.md)
+* [Riesgos generales del personal docente](modulo-4-prevencion-de-riesgos-laborales-del-personal-docente-en-aragon/prevencion-de-riesgos-laborales-del-personal-docente-en-aragon.md)
+* [Riesgos específicos del docente en función de su puesto.](modulo-4-prevencion-de-riesgos-laborales-del-personal-docente-en-aragon/riesgos-especificos-del-docente-en-funcion-de-su-puesto.md)
 
 ---
 
