@@ -14,3 +14,4 @@ MÓDULO 2: Documentación educativa.
 
 MÓDULO 3: Comunidad educativa.
 
+MÓDULO 4: Prevención de Riesgos Laborales del personal docente en Aragón.
