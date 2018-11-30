@@ -39,6 +39,10 @@
   * [Cronograma de actuaciones.](modulo-2-documentacion-educativa/acoso-escolar/cronograma-de-actuaciones.md)
   * [Diagrama de actuación.](modulo-2-documentacion-educativa/acoso-escolar/diagrama-de-actuacion.md)
 * [Inclusión](modulo-2-documentacion-educativa/inclusion.md)
+  * [Una presentación sobre el decreto de inclusión](modulo-2-documentacion-educativa/inclusion/una-presentacion-sobre-el-decreto-de-inclusion.md)
+  * [Articulado de la ORDEN ECD 1005/2018](modulo-2-documentacion-educativa/inclusion/articulado-de-la-orden-ecd-10052018.md)
+    * [Respuesta educativa inclusiva](modulo-2-documentacion-educativa/inclusion/articulado-de-la-orden-ecd-10052018/el-centro-docente-como-garante-de-la-inclusion.md)
+    * [Actuaciones de intervención educativa](modulo-2-documentacion-educativa/inclusion/articulado-de-la-orden-ecd-10052018/actuaciones-de-intervencion-educativa.md)
 
 ## MÓDULO 4: Prevención de Riesgos Laborales del personal docente en Aragón.
 

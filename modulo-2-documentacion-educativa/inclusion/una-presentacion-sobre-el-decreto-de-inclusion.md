@@ -1,0 +1,3 @@
+Aquí tienes una presentación sobre el DECRETO 188/2017, de 28 de noviembre, del Gobierno de Aragón, por el que se regula la respuesta educativa inclusiva y la convivencia en las comunidades educativas de la Comunidad Autónoma de Aragón.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQXEMJJQol6qOcr152leYrMq3ChiNjx-fpj2ZticjwNpqBIVWLOJ3NDadQoBwIAbZMbJSaiI1QN0XFU/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
