@@ -45,6 +45,9 @@
     * [Actuaciones de intervención educativa](modulo-2-documentacion-educativa/inclusion/articulado-de-la-orden-ecd-10052018/actuaciones-de-intervencion-educativa.md)
     * [Adaptaciones curriculares.](modulo-2-documentacion-educativa/inclusion/articulado-de-la-orden-ecd-10052018/adaptaciones-curriculares.md)
   * [Legislación sobre inclusión.](modulo-2-documentacion-educativa/inclusion/legislacion-sobre-inclusion.md)
+* [Igualdad](modulo-2-documentacion-educativa/igualdad.md)
+  * [Ley de Identidad de Género e Igualdad Social](modulo-2-documentacion-educativa/igualdad/ley-de-identidad-de-genero-e-igualdad-social.md)
+  * [Ley de igualdad de oportunidades](modulo-2-documentacion-educativa/igualdad/ley-de-igualdad-de-oportunidades.md)
 * [Créditos](modulo-2-documentacion-educativa/creditos-del-modulo-3.md)
 
 ## MÓDULO 4: Prevención de Riesgos Laborales del personal docente en Aragón.
