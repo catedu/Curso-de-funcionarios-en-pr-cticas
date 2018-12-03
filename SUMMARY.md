@@ -44,6 +44,7 @@
     * [Respuesta educativa inclusiva](modulo-2-documentacion-educativa/inclusion/articulado-de-la-orden-ecd-10052018/el-centro-docente-como-garante-de-la-inclusion.md)
     * [Actuaciones de intervención educativa](modulo-2-documentacion-educativa/inclusion/articulado-de-la-orden-ecd-10052018/actuaciones-de-intervencion-educativa.md)
     * [Adaptaciones curriculares.](modulo-2-documentacion-educativa/inclusion/articulado-de-la-orden-ecd-10052018/adaptaciones-curriculares.md)
+  * [Legislación sobre inclusión.](modulo-2-documentacion-educativa/inclusion/legislacion-sobre-inclusion.md)
 
 ## MÓDULO 4: Prevención de Riesgos Laborales del personal docente en Aragón.
 
