@@ -63,3 +63,18 @@ c) Aprender a decidir: la toma de decisiones en relación al propio itinerario f
 4. Las actividades de tutoría se adaptarán a cada grupo, desarrollándolas de manera individual, grupal y, en su caso, entre distintos grupos-clase.
 19667
 5. Para reforzar los contenidos del Plan de Orientación y Acción Tutorial en el centro educativo se tendrán en cuenta los programas y proyectos que incluyan el Plan de Convivencia y el Plan de Igualdad.
+
+
+## Artículo 18. Accesibilidad universal al aprendizaje.
+1) La accesibilidad universal al aprendizaje en los centros educativos, se articulará a través de los tres principios que rigen el Diseño Universal del Aprendizaje:
+
+a) Proporcionar múltiples medios de representación para percibir y comprender la información, ofreciendo distintas opciones de percepción, del lenguaje y los símbolos, así como diversas opciones para la comprensión de la información.
+b) Ofrecer múltiples medios para la acción y la expresión ajustados a las necesidades y capacidades del alumnado, así como apoyar y ampliar sus funciones ejecutivas.
+c) Facilitar múltiples medios para la motivación e implicación en el aprendizaje, que mejoren su interés, esfuerzo y persistencia y autorregulación.
+
+2) Para facilitar lo mencionado en el punto anterior, podrán utilizarse recursos gráficos y medios técnicos como los de la plataforma aragonesa de sistemas aumentativos y alternativos de comunicación (ARASAAC), u otras que se consideren.
+
+3) La accesibilidad a los espacios se facilitará mediante la eliminación de barreras arquitectónicas, la adecuación de espacios y, en su caso, la adaptación del mobiliario.
+
+4) Para lograr la accesibilidad de mobiliario, materiales y recursos, se podrán desarrollar acuerdos de colaboración con centros de Formación Profesional, con la Universidad u otras entidades.
+
