@@ -26,7 +26,7 @@
   * [Documentos anuales: Programación General Anual y Memoria Final](modulo-2-documentacion-educativa/documentos-institucionales-del-centro/documentos-anuales-programacion-general-anual-y-memoria-final.md)
 * [Reflexiones finales](modulo-2-documentacion-educativa/reflexiones-finales.md)
 * [Bibliografía](modulo-2-documentacion-educativa/bibliografia.md)
-* [Créditos](modulo-2-documentacion-educativa/creditos.md)
+* [Créditos M1](modulo-2-documentacion-educativa/creditos.md)
 
 ## MÓDULO 3: Comunidad educativa.
 
@@ -48,7 +48,7 @@
 * [Igualdad](modulo-2-documentacion-educativa/igualdad.md)
   * [Ley de Identidad de Género e Igualdad Social](modulo-2-documentacion-educativa/igualdad/ley-de-identidad-de-genero-e-igualdad-social.md)
   * [Ley de igualdad de oportunidades](modulo-2-documentacion-educativa/igualdad/ley-de-igualdad-de-oportunidades.md)
-* [Créditos](modulo-2-documentacion-educativa/creditos-del-modulo-3.md)
+* [Créditos M2](modulo-2-documentacion-educativa/creditos-del-modulo-3.md)
 
 ## MÓDULO 4: Prevención de Riesgos Laborales del personal docente en Aragón.
 
@@ -58,7 +58,7 @@
   * [Derechos y deberes de los docentes en materia de prevención de riesgos](modulo-4-prevencion-de-riesgos-laborales-del-personal-docente-en-aragon/conceptos-generales/derechos-y-deberes-de-los-docentes-en-materia-de-prevencion-de-riesgos.md)
 * [Riesgos generales del personal docente](modulo-4-prevencion-de-riesgos-laborales-del-personal-docente-en-aragon/prevencion-de-riesgos-laborales-del-personal-docente-en-aragon.md)
 * [Riesgos específicos del docente en función de su puesto.](modulo-4-prevencion-de-riesgos-laborales-del-personal-docente-en-aragon/riesgos-especificos-del-docente-en-funcion-de-su-puesto.md)
-* [Créditos](modulo-4-prevencion-de-riesgos-laborales-del-personal-docente-en-aragon/creditos.md)
+* [Créditos M3](modulo-4-prevencion-de-riesgos-laborales-del-personal-docente-en-aragon/creditos.md)
 
 ---
 
