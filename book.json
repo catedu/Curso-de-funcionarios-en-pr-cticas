@@ -5,8 +5,8 @@
         "title": "Curso para funcionariado en prácticas",
         "author": "Varios autores",
         "collaborators": [
-            { "name": "Equipo de CATEDU", "edited": "Módulo 1 a partir del cursos del INTEF Aprendizaje basado en proyectos de Fernando Trujillo Sáez"},
-            { "name": "María Lourdes Alcalá Ibañez", "edited": "Módulo 2"},
+            {"name": "Equipo de CATEDU", "edited": "Módulo 1 a partir del cursos del INTEF Aprendizaje basado en proyectos de Fernando Trujillo Sáez"},
+            {"name": "María Lourdes Alcalá Ibañez", "edited": "Módulo 2"},
             {"name": "Sergio Duce Sesé, Alicia Marín Mormeneo, Isabel Tolosana Sánchez, Marco de Pablo Martínez", "edited": "Módulo 3"},
             {"name": "Joaquín Conejo Fumanal", "edited": "Módulo 4"}
         ]
