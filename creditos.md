@@ -4,8 +4,11 @@
 
 ## Autoría
 
-* {{ book.author }}
-* {{ book.collaborators }}
+* {% for item in book.collaborators %}
+
+{{item.name}}: {{item.edited}}
+
+{% endfor %}
 
 
 

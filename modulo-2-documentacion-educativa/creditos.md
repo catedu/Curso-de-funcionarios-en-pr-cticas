@@ -1,4 +1,4 @@
-# Créditos.
+# Créditos del módulo 2.
 
 ## Autoría del módulo.
 

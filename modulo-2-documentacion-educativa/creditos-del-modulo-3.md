@@ -2,12 +2,15 @@
 
 ## Autoría del módulo.
 
+Sergio Duce Sesé
 
 Alicia Marín Mormeneo
 
-Sergio Duce Sesé
+Marco de Pablo Martínez
 
-Isabel Tolosana
+Isabel Tolosana Sánchez
+
+
 
 
 
