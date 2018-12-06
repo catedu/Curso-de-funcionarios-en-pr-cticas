@@ -1,6 +1,6 @@
 # Summary
 
-* [Mensaje de bienvenida](README.md)
+* [Curso para el Funcionariado en Prácticas.](README.md)
 
 ## MÓDULO 1. Metodologías activas
 

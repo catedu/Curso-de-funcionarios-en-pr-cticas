@@ -1,4 +1,5 @@
-# Mensaje de bienvenida
+
+![](/assets/online practicas.jpg)
 
 Bienvenido/a al Curso para el Funcionariado en Prácticas.
 
