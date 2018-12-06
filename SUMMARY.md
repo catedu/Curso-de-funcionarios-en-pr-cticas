@@ -1,6 +1,6 @@
 # Summary
 
-* [Introducción](README.md)
+* [Mensaje de bienvenida](README.md)
 
 ## MÓDULO 1. Metodologías activas
 

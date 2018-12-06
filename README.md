@@ -1,26 +1,39 @@
-# Introducción. {#introducci-n}
+# Mensaje de bienvenida
 
-#
-Introducción. {#introducci-n}
+Bienvenido/a al Curso para el Funcionariado en Prácticas.
 
-Este curso está destinado al funcionariado docentes en prácticas.
+En nombre  del Departamento de Educación, Cultura y Deporte quiero felicitarte por haber superado el proceso selectivo que tuvo lugar este verano.
 
-Nos gustaría comenzarlo dando la enhorabuena al profesorado participante por su reciente aprobado en la oposición.
+Sé lo complicado que es conciliar la vida laboral y personal, por eso mismo este curso escolar 2018-2019 estrenamos la modalidad online en la formación para el funcionariado en prácticas. 
 
-Los contenidos de esta actividad vienen perfilados en la convocatoria de oposiciones. Así mismo, su carga horaria y su obligatoriedad vienen estipulados por dicha convocatoria.
+Esta formación tratará distintos contenidos que han sido actualizados, desde el punto de vista pedagógico y también normativo, por una comisión constituida por varios expertos en educación y formación del profesorado. El curso está compuesto por cuatro módulos: Metodologías activas, en el que se insistirá especialmente en Aprendizaje Basado en Proyectos (ABP); Documentación Educativa, Prevención de Riesgos Laborales del personal docente en Aragón y La Comunidad Educativa, en el que se abordarán cuestiones como igualdad, inclusión, tutoría, convivencia y acoso escolar.
 
-Nuestro objetivo en el diseño de esta actividad ha sido siempre intentar ofrecer al profesorado participante contenidos que puedan resultar útiles e interesantes y que sirvan de apoyo a la práctica docente en el aula.
+Espero que el Curso online para el Funcionariado en Prácticas te permita compaginar su realización con el resto de tu vida personal y laboral y, asimismo, que sea provechoso para la etapa profesional que comenzarás al finalizar tu periodo de prácticas.
 
-## Estructura del curso.
+Recibe un afectuoso saludo,
 
-Este curso está estructurado en cuatro módulos. Todos los contenidos del curso están en este libro de Gitbook. Las actividades obligatorias asociadas al curso se encuentran en la plataforma [Moodle de Aularagon](http://moodle.catedu.es/)
 
-Los contenidos del curso son:
 
-MÓDULO 1. Metodologías activas.
 
-MÓDULO 2: Documentación educativa.
 
-MÓDULO 3: Comunidad educativa.
 
-MÓDULO 4: Prevención de Riesgos Laborales del personal docente en Aragón.
+
+Tomás Guajardo Cuervo
+Director General de Personal y Formación del Profesorado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
