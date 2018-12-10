@@ -38,7 +38,7 @@ NOTA: El visionado del vídeo es obligatorio puesto que pueden aparecer pregunta
 
 El diario de aprendizaje constituye una herramienta para la reflexión y análisis del pensamiento reflexivo. En el diario se puede recoger lo que sucede en el aula desde el punto de vista de quién escribe, anotando en él una descripción de lo que ocurre, así como sus interpretaciones e impresiones, lo cual posibilitará sacar más adelante conclusiones acerca de las razones del comportamiento. Esto posibilita el abandono de conductas robotizadas y rutinarias, permitiendo la reflexión y potenciando la capacidad de generar un conocimiento profesional crítico. Además constituye una guía para la reflexión sobre la práctica, favoreciendo la toma de conciencia sobre el propio proceso de aprendizaje.
 
-En el interesante artículo [El diario como estrategia didáctica](https://www.google.com/url?q=http://aprendeenlinea.udea.edu.co/lms/moodle/mod/resource/view.php?inpopup%3Dtrue%26id%3D34201&sa=D&ust=1511270171058000&usg=AFQjCNHMyZTdRBBesanxs03bnzsyQwlllA) se citan algunos de los principales valores que encuentran en la utilización del diario como estrategia de formación:
+En el interesante artículo [El diario como estrategia didáctica](http://aprendeenlinea.udea.edu.co/boa/contenidos.php/8ffccad7bc2328aa00d9344288580dd7/128/1/contenido/) se citan algunos de los principales valores que encuentran en la utilización del diario como estrategia de formación:
 
 
 *   Es activo y personal.
