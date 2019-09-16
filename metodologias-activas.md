@@ -4,9 +4,9 @@ Las metodologías activas, como las define López (2005), son “un proceso inte
 
 Se trata de propiciar un giro metodológico centrando la atención en la actividad del alumno que deja de ser un receptor pasivo de los contenidos de aprendizaje para volverse un agente activo de éste. Esto aumenta su implicación con su propio proceso de aprendizaje produciendo efectos más profundos y duraderos.
 
-Es necesario adaptar nuestras estrategias dependiendo de las características del alumnado, de la etapa educativa y de las competencias que deseamos que desarrollen. Esto hace que no sea deseable hablar de una “metodología activa” sino de “metodologías activas” en plural.
+En algunas ocasiones, puede ser necesario adaptar nuestras estrategias dependiendo de las características del alumnado, de la etapa educativa y de las competencias que deseamos que desarrollen. Esto hace que no sea deseable hablar de una “metodología activa” sino de “metodologías activas” en plural.
 
-Algunas de estás meotodologías activas son:
+Algunas de estás metodologías activas son:
 
 *   Aprendizaje Basado en Proyectos.
 *   El Método del Caso (o estudio de casos).
