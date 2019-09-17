@@ -2,7 +2,7 @@
 
 ### Una evaluación alternativa para una enseñanza alternativa {#una-evaluaci-n-alternativa-para-una-ense-anza-alternativa}
 
-Dice Miguel Ángel Santos Guerra, en su libro Una flecha en la diana: la evaluación como aprendizaje ([ver artículo resumen](https://www.google.com/url?q=http://multiblog.educacion.navarra.es/jmoreno1/files/2013/10/evaluaci%25C3%25B3n-de-la-escuela.pdf&sa=D&ust=1511270171055000&usg=AFQjCNEoxxUHBfVKCuQNB2aNQHNi3EMrUA)): &quot;La evaluación es un fenómeno educativo que condiciona todo el proceso de enseñanza y aprendizaje. No se trata de un fenómeno esencialmente técnico sino de un fenómeno ético. Por consiguiente, resulta indispensable preguntarse a quién beneficia cuando se hace y a quién perjudica; a qué valores sirve y qué valores destruye. La evaluación puede servir para muchas finalidades. Lo importante es utilizarla como aprendizaje, como un modo de comprender para mejorar las prácticas que aborda.&quot;
+Dice Miguel Ángel Santos Guerra, en su libro _Una flecha en la diana: la evaluación como aprendizaje_ ([ver artículo resumen](https://www.google.com/url?q=http://multiblog.educacion.navarra.es/jmoreno1/files/2013/10/evaluaci%25C3%25B3n-de-la-escuela.pdf&sa=D&ust=1511270171055000&usg=AFQjCNEoxxUHBfVKCuQNB2aNQHNi3EMrUA)): &quot;La evaluación es un fenómeno educativo que condiciona todo el proceso de enseñanza y aprendizaje. No se trata de un fenómeno esencialmente técnico sino de un fenómeno ético. Por consiguiente, resulta indispensable preguntarse a quién beneficia cuando se hace y a quién perjudica; a qué valores sirve y qué valores destruye. La evaluación puede servir para muchas finalidades. Lo importante es utilizarla como aprendizaje, como un modo de comprender para mejorar las prácticas que aborda.&quot;
 
 Las pregunta es &quot;para qué&quot; evaluamos, ¿qué beneficios perseguimos? No tiene mucho sentido evaluar por evaluar, porque &quot;toca hacerlo&quot;. Tiene menos lógica aún y ninguna ética evaluar para jerarquizar, clasificar, atemorizar, perseguir y castigar. Una de las finalidades que debe tener la evaluación es la de perseguir el aprendizaje de evaluados y evaluadores. Por ello, necesitamos unas dinámicas de evaluación que vayan más allá de la mera comprobación de que el alumno ha memorizado unos contenidos.
 
@@ -16,7 +16,7 @@ Imagen: [ccarlstead](https://www.google.com/url?q=http://www.flickr.com/photos/c
 
 Si, por el contrario, tenemos intención de valorar cómo se aprende y qué se aprende durante el desarrollo de nuestro proyecto y al final del mismo, así como la calidad del producto final y otros aspectos que encontremos relevantes (relaciones entre los estudiantes, relaciones dentro del grupo, cambio actitudinal, etc.), entonces tenemos necesidad de buscar mecanismos de evaluación alternativos más allá de las herramientas convencionales: estamos hablando de una evaluación alternativa para una enseñanza alternativa.
 
-¿Para qué evaluamos?
+**¿Para qué evaluamos?**
 
 En primer lugar, porque existe la necesidad de regular el aprendizaje, es decir, de detectar las posibles dificultades que puedan encontrar los estudiantes en su aprendizaje para, a partir de ahí, ayudarles a resolverlas; en segundo lugar, la obligación de informar a estudiantes y familias sobre los resultados de su aprendizaje y su avance a lo largo del curso.
 
