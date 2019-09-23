@@ -1,9 +1,9 @@
 
 # 1.Trabajo y salud. La paradoja del trabajo y la salud.
 
-Según la OMS (Organización Mundial de la Salud) la **salud** es definida como &quot;el estado completo de equilibrio y bienestar físico, psíquico y social , que implica la ausencia de afecciones o enfermedades&quot;. La definición no se queda en una mera ausencia de enfermedades sino que aboga por un &quot;bienestar&quot;. Este bienestar es fácilmente entendible cuando se trata del aspecto físico pero cuesta más cuantificarlo cuando se trata del bienestar psíquico y/o social, pero también es mensurable.
+Según la OMS (Organización Mundial de la Salud) la **salud** es definida como &quot;el estado completo de equilibrio y bienestar físico, psíquico y social, que implica la ausencia de afecciones o enfermedades&quot;. La definición no se queda en una mera ausencia de enfermedades sino que aboga por un &quot;bienestar&quot;. Este bienestar es fácilmente entendible cuando se trata del aspecto físico. Cuesta más cuantificarlo cuando se trata del bienestar psíquico y/o social, pero también es mensurable.
 
-Trabajamos precisamente para contribuir a ese estado de bienestar, entre otros beneficios y a modo de ejemplo podemos citar:
+Trabajamos precisamente para contribuir a ese estado de bienestar, entre otros beneficios y, a modo de ejemplo, podemos citar:
 
 - Físico, pues trabajando podemos contribuir a satisfacer necesidades físicas e incluso contribuir a ese bienestar.
 
@@ -13,7 +13,7 @@ Trabajamos precisamente para contribuir a ese estado de bienestar, entre otros b
 
 Trabajamos para tener ese estado de equilibrio y bienestar psíquico, físico y social del que habla la OMS pero sin embargo trabajando podemos perder esa salud.
 
-Trabajando podemos tener un perjuicio físico (una lesión, una caída, una enfermedad…) psíquico (estrés, fatiga mental…) o social (aislamiento social, trabajo a turnos…) Es la paradoja del trabajo y la salud.
+Trabajando podemos tener un perjuicio físico (una lesión, una caída, una enfermedad…) psíquico (estrés, fatiga mental…) o social (aislamiento social, trabajo a turnos…). Es la paradoja del trabajo y la salud.
 
 Ahí precisamente tiene su sentido la prevención de **riesgos** laborales para tratar de detectar aquellos **factores de riesgo** que pueden causar un **daño**.
 
