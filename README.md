@@ -1,7 +1,9 @@
 
-![](/assets/online practicas.jpg)
 
-Bienvenido/a al Curso para el Funcionariado en Prácticas.
+![](/assets/practicas online 19-20.jpg)
+
+
+<!--Bienvenido/a al Curso para el Funcionariado en Prácticas.
 
 En nombre  del Departamento de Educación, Cultura y Deporte quiero felicitarte por haber superado el proceso selectivo que tuvo lugar este verano.
 
