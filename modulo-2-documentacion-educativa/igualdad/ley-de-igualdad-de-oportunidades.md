@@ -123,3 +123,13 @@ de intercambio de docencia e investigación en materia de género en Aragón, co
 a) La inspección educativa garantizará el respeto al principio de igualdad y no discriminación en los libros de texto, los materiales curriculares y, en general, en todas las programaciones y proyectos del centro.
 b) La administración educativa debe garantizar la formación en igualdad de género del
 personal de inspección, especialmente en materia de educación en relación, igualdad de oportunidades y de trato entre mujeres y hombres, lenguaje no sexista y en la prevención de la violencia contra la mujer.
+
+# La ORDEN ECD/1003/2018
+
+Otra referencia legislativa imprescindible en este sentido es la[ ORDEN ECD/1003/2018, de 7 de junio, por la que se determinan las actuaciones que contribuyen a promocionar la convivencia, igualdad y la lucha contra el acoso escolar en las comunidades educativas aragonesas.](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1025975423838)
+
+De esta orden conviene leer los capítulos 3 y 4
+
+<iframe src="https://drive.google.com/file/d/1f3Xd-c4WU5t8drJmmpPfT1wRPDcoKXWH/preview" width="640" height="480"></iframe>
+
+NOTA: Estos capítulos 3 y 4 son de lectura obligatoria y podrían aparecer preguntas en el test.
