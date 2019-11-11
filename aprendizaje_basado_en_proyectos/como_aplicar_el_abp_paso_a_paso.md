@@ -1,6 +1,6 @@
 ## Cómo aplicar el ABP paso a paso {#c-mo-aplicar-el-abp-paso-a-paso}
 
-![](/images/image10.png)
+![](/images/image1000.png)
 
 ## Diseño de la pregunta guía (driving question):
 
