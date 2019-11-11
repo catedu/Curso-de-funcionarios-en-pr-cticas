@@ -10,7 +10,7 @@ Enseñanza y evaluación son las dos caras de una misma moneda. Entre ambas debe
 
 Por ello, si nuestro estilo de enseñanza está cerca de la &quot;instrucción directa&quot; que describiremos en el primer módulo y nuestro estilo de evaluación consiste en un examen escrito en el cual solicitamos de nuestros estudiantes que reproduzcan el contenido que nosotros expusimos en la fase de presentación, el mensaje en relación con el estilo de aprendizaje de nuestros estudiantes es bien claro: es necesario memorizar los contenidos y ninguna otra competencia (en inglés podríamos hablar de [21st Century Skills](https://www.google.com/url?q=http://www.bie.org/research/21st_century_skills&sa=D&ust=1511270171056000&usg=AFQjCNHB0Delyq5UJf8oeHFbKggIHt5otQ)) es necesaria.
 
-![](/images/image17.jpg)
+![](/images/image1700.jpg)
 
 Imagen: [ccarlstead](https://www.google.com/url?q=http://www.flickr.com/photos/cristic/359572656/&sa=D&ust=1511270171057000&usg=AFQjCNFW8PlC9ldx784wDK8FDxKZY7VZHg) con licencia CC by 2.0
 
@@ -65,7 +65,7 @@ Con total seguridad, cuando tú realizas cualquier actividad te gusta saber a pr
 
 Imagina ahora una tarea que quieras que realicen tus estudiantes. Esta tarea supone un proceso de trabajo y conlleva la obtención de un producto. Si estableces las categorías que determinan el éxito del proceso y del producto, si ordenas los posibles grados de éxito y redactas unos enunciados que describan esos grados de éxito, entonces ya has hecho la rúbrica para evaluar la tarea.
 
-![](/images/image12.jpg)
+![](/images/image1200.jpg)
 
 Definición y uso
 
