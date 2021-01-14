@@ -12,7 +12,7 @@ En este sentido, se sugiere una revisión de, entre otros, los siguientes aspect
 -  **Criterios de agrupamiento de alumnado.** Ubicación y asignación de aulas.
 -  **Distribución de uso de espacios comunes.**
 -  **Recursos y criterios de actuación destinados a la vigilancia** de patios, entradas y salidas, etc.
--  **Sistemas de Ayuda entre Iguales**: Alumnado Ayudante, Mediadores, [Ciberayudantes](https://catedu.gitbooks.io/convivencia-segura-en-la-red/content/modulo-iv-ciberayudantes-un-programa-de-centro/71-contexto-del-proyecto-y-del-centro.html), etc.
+-  **Sistemas de Ayuda entre Iguales**: Alumnado Ayudante, Mediadores, [Ciberayudantes](https://catedu.github.io/convivencia-segura-en-la-red/modulo-iv-ciberayudantes-un-programa-de-centro/71-contexto-del-proyecto-y-del-centro.html), etc.
 -  **Adecuación del Plan de Acción Tutorial y Plan de Convivencia** incluyendo expresamente acciones de prevención del acoso escolar.
 -  **Uso de procedimientos sociométricos** que permitan evaluar las relaciones entre compañeros/as.
 -  **Carácter inclusivo del currículo** (metodologías, herramientas y criterios de evaluación, adaptaciones curriculares, sistemas de apoyo y refuerzo…).
