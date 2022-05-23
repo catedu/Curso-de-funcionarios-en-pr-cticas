@@ -8,7 +8,7 @@ Todas estas estrategias de enseñanza y aprendizaje establecen una diferencia re
 *   el papel del estudiante no se limita a la escucha activa sino que se espera que participe activamente en procesos cognitivos de rango superior: reconocimiento de problemas, priorización, recogida de información, comprensión e interpretación de datos, establecimiento de relaciones lógicas, planteamiento de conclusiones o revisión crítica de preconceptos y creencias.
 *   el papel del docente se expande más allá de la exposición de contenidos. La función principal del docente es crear la situación de aprendizaje que permita que los estudiantes puedan desarrollar el proyecto, lo cual implica buscar materiales, localizar fuentes de información, gestionar el trabajo en grupos, valorar el desarrollo del proyecto, resolver dificultades, controlar el ritmo de trabajo, facilitar el éxito del proyecto y evaluar el resultado.
 
-Para definir qué significa Aprendizaje Basado en Proyectos podemos ver una explicación en vídeo realizada por [BIEPBL](https://www.google.com/url?q=http://youtu.be/wL4n-PdQXGs&sa=D&ust=1511270171042000&usg=AFQjCNGRbq851Va-0ttGx3HFNCJkxz7TcA) al estilo &quot;[Common Crafts](https://www.google.com/url?q=http://www.commoncraft.com/&sa=D&ust=1511270171042000&usg=AFQjCNEOG1Yp63p6EEbFFTqmUDw-Uzoqbg)&quot;:
+Para definir qué significa Aprendizaje Basado en Proyectos podemos ver una explicación en vídeo realizada por [BIEPBL](http://youtu.be/wL4n-PdQXGs&sa=D&ust=1511270171042000&usg=AFQjCNGRbq851Va-0ttGx3HFNCJkxz7TcA) al estilo [Common Crafts](http://www.commoncraft.com/):
 
 {% youtube %}https://www.youtube.com/watch?v=wL4n-PdQXGs{% endyoutube %}
 
